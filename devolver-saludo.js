@@ -1,3 +1,4 @@
 addEventListener("load",function(){
- document.getElementById("encabezado1").innerHTML="¡Hola Mundo!"; 
+ welcome="¡Hola Mundo!";
+ document.getElementById("encabezado1").innerHTML=welcome; 
 }
