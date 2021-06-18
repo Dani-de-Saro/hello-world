@@ -1,2 +1,2 @@
 # hello-world
-proyecto test inicial
+Creación de un hello world utilizando tecnologias web.
