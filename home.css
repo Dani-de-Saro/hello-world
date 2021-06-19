@@ -3,13 +3,13 @@ html {
   font-size:1em;
 }
 body{
-  color:white;
+  color:purple;
   background:#c0c0c0 url(none);
 }
 h1{
   font-size:1.3em;
   font-family:impact;
-    color:navy;
+    color:white;
 transition-property: font-size;
   transition-duration: 0.5s;
 text-shadow: 1px 1px 1px rgba(90, 90, 90, 0.8);
