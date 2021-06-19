@@ -9,5 +9,7 @@ body{
 h1{
   font-size:1.3em;
   font-family:impact;
-    color:navy; 
+    color:navy;
+transition-property: font-size;
+  transition-duration: 0.5s;
 }
