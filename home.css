@@ -1,0 +1,13 @@
+@charset "utf-8";
+html {
+  font-size:1em;
+}
+body{
+  color:purple;
+  background:#c0c0c0 url(none);
+}
+h1{
+  font-size:1.3em;
+  font-family:impact;
+    color:navy; 
+}

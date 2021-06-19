@@ -1,2 +1,2 @@
 # hello-world
-proyecto test inicial
+Creación de un hello world utilizando tecnologias web. El proyecto consiste en crear un hola mundo utilizando html5, javascript, algo de 3D (todavia no esta definido este punto, estoy estudiando utilizar armory3D o tecnologias similares) y algo de música. Como contenido adyacente, tal vez hacer una enumeración de 'buenas practicas' en cuanto a diseño web, desde un punto de vista mas personal que académico, una especie de editorial.
