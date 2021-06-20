@@ -35,6 +35,8 @@ h1{
   font-size:1.3em;
   font-family:impact;
     color:white;
+margin:3px;
+padding:2px;
 transition-property: font-size;
   transition-duration: 0.5s;
 text-shadow: 1px 1px 1px rgba(90, 90, 90, 0.8);
@@ -42,9 +44,15 @@ text-shadow: 1px 1px 1px rgba(90, 90, 90, 0.8);
 h2{
 font-size:1.1em;
 font-family:"angrybirds";
+margin:3px;
+padding:2px;
 }
 article{
 color:black;
-margin:3rem;
+margin:2rem;
 
+}
+p{
+margin:3px;
+padding:3px;
 }
