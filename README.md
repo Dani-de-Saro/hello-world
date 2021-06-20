@@ -13,3 +13,17 @@ http://compass-style.org/install/
 Aquí tienes instrucciones de instalación y tutoriales básicos, por si no conoces esta tecnologia. Las plantillas SASS que utiliza Compass están en el directorio SASS, así como la plantilla de configuración de proyectos Compass, se encuentra en el directorio base (config.rb).
 
 -Se ha añadido también una hoja de estilos responsive, con una plantilla base (responsive.scss y responsive.css) con opción ya preparada para adaptar a resoluciones desde 1300px de ancho a 250px.
+
+Instrucciones de publicación.
+
+En el caso de querer publicar el proyecto en un servidor, sólo has de subir los siguientes archivos
+
+DIRECTORIO principal
+ hola-mundo.html
+devolver-saludo.js
+
+Se ha de crear un directorio dentro del principal llamado css, y meter en este las hojas de estilo generadas por Compass, o diseñadas con otro sistema en el caso de no implementar compass sass.
+
+Crear tambien un directorio llamado 'fuentes', y alojar en este la fuente llamada angrybirds-regular.ttf. La fuente GROBOLD no se está utilizando y por tanto no es necesaria.
+
+Tanto la carpeta sass como el archivo config.rb no se deben subir a producción, son para utilizar en un servidor local y en un sistema que tenga instalado Compass SASS (http://compass-style.org).
