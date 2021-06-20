@@ -34,16 +34,24 @@ Tanto la carpeta sass como el archivo config.rb no se deben subir a producción,
 TECNOLOGÍAS UTILIZADAS EN ESTE PROYECTO (HASTA AHORA)
 
 html5
+
 javascript (vanilla)
+
 SASS css (a través de Compass SASS con Ruby)
+
 Editor de códigos: Atom.
+
 Navegadores de pruebas: Firefox 8.9.0.1 (64-bit), Seamonkey 2.53.7.1 Release.
+
 Servidor local: Apache2.
+
 Herramienta de control de versiones local: GIT.
+
 SO: Linux Mint Ulyssa.
 
 
 CREDITOS
 
 diseño web, programación: Dani de Saro
+
 Licencia del proyecto:Creative Commons BY
