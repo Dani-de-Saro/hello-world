@@ -24,6 +24,6 @@ devolver-saludo.js
 
 Se ha de crear un directorio dentro del principal llamado css, y meter en este las hojas de estilo generadas por Compass, o diseñadas con otro sistema en el caso de no implementar compass sass.
 
-Crear tambien un directorio llamado 'fuentes', y alojar en este la fuente llamada angrybirds-regular.ttf. La fuente GROBOLD no se está utilizando y por tanto no es necesaria.
+Crear tambien un directorio llamado 'fuentes', y alojar en este la fuente llamada angrybirds-regular.ttf. 
 
 Tanto la carpeta sass como el archivo config.rb no se deben subir a producción, son para utilizar en un servidor local y en un sistema que tenga instalado Compass SASS (http://compass-style.org).
